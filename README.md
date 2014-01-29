@@ -1,4 +1,4 @@
-PortFolio
+Mike Rosengrant's PortFolio
 =========
 
-A portfolio of my work through college. Includes all of my Class work as well as various side-projects I have worked on
+A collection of programming work I have done through college. Includes class work as well as side-projects I have worked on.
