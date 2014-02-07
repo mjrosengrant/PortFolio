@@ -1,6 +1,8 @@
-/* This was my first program written in the Service Oriented Architecture. It was the first time I really utilized online services and APIs, and built something that actually useful. It utilized the internet and would and inform me of something I would not have known otherwise.Services give you access to incredible amounts of information. Imagine if Christopher Coloumbus was able to use reverse geocoding. It would have made his job a hell of a lot easier. 
-
-I missed the SuperBowl to finish this project. It's the first time in 21 years I have not watched it. It was kind of sad, but that's the sacrifice you make.*/
+/* This was my first program written in the Service Oriented Architecture. It was the first time I really utilized 
+online services and APIs, and built something that actually useful. It utilized the internet and would and inform me of 
+something I would not have known otherwise. Services give you access to incredible amounts of information. Imagine if 
+Christopher Coloumbus was able to use reverse geocoding. It would have made his job a hell of a lot easier. 
+*/
 
 namespace MikeRosengrantsBrowser
 {
