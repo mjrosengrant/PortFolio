@@ -1,6 +1,8 @@
 //This Script was made to fill a database with random flights, that are 
 //sorted into Domestic and International Flights.  
 
+//Project available at http://www.snagaflight-snagaflight.rhcloud.com
+
 <?php
 
 class location{
